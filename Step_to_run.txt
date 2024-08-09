@@ -1,0 +1,18 @@
+
+# activate VENV 
+> venv\Scripts\activate     (RUN EVERY TIME)
+
+# delete db
+> Parking.db  (RUN EVERY TIME)
+
+# run app.py
+> python app.py  (RUN EVERY TIME)
+
+# run 07_Parking_count_with_db.py
+> python 07_Parking_count_with_db.py
+
+# run 08_NumberPlate_with_db_for_entry.py
+> python 08_NumberPlate_with_db_for_entry.py
+
+# run 09_NumberPlate_with_db_for_exit.py
+> python 09_NumberPlate_with_db_for_exit.py
