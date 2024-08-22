@@ -38,6 +38,12 @@ As urbanization increases, parking has become a significant issue in both develo
 - **Precision**: The system was rigorously tested using video footage captured by a drone camera. It successfully detected the availability of parking spaces with high accuracy, demonstrating its potential for real-world applications.
 - **Cost-Effective**: The Smart Parking System is more economical compared to traditional parking management systems that rely on individual sensors for each parking spot. By using digital image processing, it significantly reduces installation and maintenance costs.
 
+![Untitled](https://github.com/user-attachments/assets/ea8aac2c-4768-4fe1-b148-66f51990cf3b)
+![Untitled1](https://github.com/user-attachments/assets/3ba32b82-daba-40e9-a67a-0ede695136e9)
+![Untitled2](https://github.com/user-attachments/assets/a40c4c7f-ea33-4e21-ad10-6c35b11bdbb7)
+![Untitled3](https://github.com/user-attachments/assets/ef4a19bc-dfe8-44a6-ba87-14393f81076f)
+![Untitled4](https://github.com/user-attachments/assets/56c60830-c10d-4767-abe2-871442e17ffd)
+
 ## 🌍 Future Work
 
 - **Scalability**: The current system is designed for small-scale parking lots. Future work could focus on enhancing scalability to accommodate larger parking areas, including multi-story parking structures.
